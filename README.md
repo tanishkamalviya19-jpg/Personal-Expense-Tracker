@@ -2,15 +2,14 @@
 
 A dark-themed desktop finance app built with Python and Tkinter — track expenses, visualize spending, manage savings goals, and export monthly reports.
 
----
-
+----
 ## 📸 Screenshots
 
-> _Add your app screenshots here_
+![Dashboard](screenshots/dashboard.png)
 
-| Dashboard | Charts | Export |
-|-----------|--------|--------|
-| ![dashboard](screenshots/dashboard.png) | ![charts](screenshots/charts.png) | ![export](screenshots/export.png) |
+![Charts](screenshots/charts.png)
+
+![Export](screenshots/export.png)
 
 ---
 
