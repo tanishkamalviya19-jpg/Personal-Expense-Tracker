@@ -117,4 +117,4 @@ Color of gauge changes dynamically:
 
 **Tanishka Malviya**  
 B.Tech CSE, SAGE University Indore  
-[LinkedIn](https://linkedin.com/in/tanishkamalviya19) • [GitHub](https://github.com/tanishkamalviya19-jpg)
+[LinkedIn](https://www.linkedin.com/in/tanishka-malviya-2b6b43375/) • [GitHub](https://github.com/tanishkamalviya19-jpg)
